@@ -1,0 +1,26 @@
+.paginatorContainer{
+    display: flex;
+    background-color: #121418;
+    justify-content: center;
+    margin-bottom: 0px;
+}
+
+.numbers{
+    margin: 10px;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.btn{
+    margin-top: 5px;
+    background-color: #121418;
+    color: whitesmoke;
+    border: solid 1px #121418 ;
+}
+
+.currentNum{
+    margin: auto 10px;
+    text-decoration: none;
+    color: rgb(206, 201, 201);
+    font-size: 20px;
+}
