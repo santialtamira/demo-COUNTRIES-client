@@ -1,3 +1,7 @@
+.pageContainer{
+    height: 100vh;
+}
+
 p.danger {
     color: red;
     font-size: 10px;
@@ -81,6 +85,7 @@ p.danger {
 
     .formContainer{
         max-width: 320px;
+        margin: 50px auto;
     }
 
     .twoElemBoxA{
