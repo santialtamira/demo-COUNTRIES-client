@@ -18,5 +18,7 @@
 }
 
 @media all and  (max-width: 820px){
-    
+    .title{
+        padding-left: 0px;
+    }
 }
