@@ -92,7 +92,7 @@ function FormActivity(props){
                 "Content-type": "application/json; charset=UTF-8"
             }
         })
-        window.location.assign("https://pi-countries-santi.herokuapp.com/countries")
+        window.location.assign("https://demo-countries-client.vercel.app/countries")
     }
 
     return(
