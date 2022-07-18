@@ -20,3 +20,9 @@
 .btnSelect:hover{
     color: #EE9B00;
 }
+
+@media all and  (max-width: 820px){
+    .selectBox{
+        min-width: 205px;
+    }
+}
